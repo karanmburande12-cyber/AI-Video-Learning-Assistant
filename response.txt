@@ -1,0 +1,7 @@
+I'd be happy to help you with your question about data types.
+
+It seems like you're looking for information on how different data types work in programming. The course material suggests that the topic of data types is covered in the first video, specifically from the 22nd second (or around 0:22 seconds) until approximately the 26th second after the minute mark (or around 2:26 seconds). 
+
+In this video, you can expect to learn about various data types such as numbers and strings. The instructor may also discuss how different variables are defined and what type of data each variable holds.
+
+If you want more information on data types, I recommend checking out Video #1. However, if you have specific questions or need clarification on certain topics, feel free to ask!
